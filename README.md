@@ -8,7 +8,7 @@
 
 Решение. Блок-схема.
 
-https://github.com/Chronik47/D_Final-verification-work/blob/main/схема.svg
+https://github.com/Chronik47/DFinal-verification-work-/blob/main/схема.svg
 
 Из имеющегося массива сравнивается длина каждого элемента со значением "3".
 Если длина < или = 3, элемент идет в новый массив.
